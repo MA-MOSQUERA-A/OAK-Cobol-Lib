@@ -5,7 +5,7 @@
       * Maintenence Log
       * Date      Author        Maintenance Requirement
       * --------- ------------  ---------------------------------------
-      * 09/05/20 DAVID QUINTERO  Created for COBOL class
+      * 09/05/20  Miguel  Created for COBOL class
       *
       *****************************************************************
        IDENTIFICATION DIVISION.
